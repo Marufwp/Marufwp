@@ -1,7 +1,7 @@
 ![Full Stack WordPress Website Developer](https://media.licdn.com/dms/image/D5616AQHQXFr4LUzRPA/profile-displaybackgroundimage-shrink_350_1400/0/1720117002879?e=1727308800&v=beta&t=OfQSoMMsMrwgEf6MumKBOcQUuGLGiXXVlQVjC04yIuA)
 
-### Hi, I'm Maruf Hossain 👋
-#### Full Stack WordPress Website Developer👨‍💻
+## Hi, I'm Maruf Hossain 👋
+### Full Stack WordPress Developer | Elementor | Divi | WPBakery Expert 👨‍💻
 
 I'm a professional WP theme and plugin developer. I specialize in creating efficient, scalable, and user-friendly plugins that simplify business solutions easier and more effective. I have a passion for coding and constantly learning new technologies to stay ahead... ✨ 
 
